@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/www-dev/sethajoh.www.press/lib/Press'
+let g:netrw_dirhist_2='/www-dev/sethajoh.www.press/lib/Model/Press/Product'
+let g:netrw_dirhist_3='/htapps/sethajoh.babel/prepper'
+let g:netrw_dirhist_4='/Users/seth/apps/prepper'
+let g:netrw_dirhist_5='/usr/local/var/rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/libv8-3.11.8.13/ext/libv8'
+let g:netrw_dirhist_6='/Users/seth/Dropbox/ruby/ht_premis_uuid'
