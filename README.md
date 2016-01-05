@@ -3,6 +3,7 @@
 
 `git clone https://github.com/sethaj/vim-dotfiles.git`
 
-`ln -s .vim-dotfiles/.vim .vim`
-`ln -s .vim-dotfiles/.vimrc .vimrc`
+`ln -s vim-dotfiles/.vim .vim`
+
+`ln -s vim-dotfiles/.vimrc .vimrc`
 
